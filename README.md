@@ -1,6 +1,5 @@
 Q-HEL Go library used by the photo stack (stacktrace).
 
-<!-- Q-HEL Go library. -->
 
 # Stacktrace [![Circle CI](https://img.shields.io/circleci/project/palantir/stacktrace/master.svg?label=circleci)](https://circleci.com/gh/palantir/stacktrace) [![Travis CI](https://img.shields.io/travis/palantir/stacktrace/master.svg?label=travis)](https://travis-ci.org/palantir/stacktrace)
 
@@ -46,7 +45,6 @@ maximally useful.
 
 ## Example Usage
 
-<!-- pre instead of code block to support bold text inside -->
 <pre>
 func WriteAll(baseDir string, entities []Entity) error {
     err := os.MkdirAll(baseDir, 0755)
