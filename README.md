@@ -1,3 +1,5 @@
+Q-HEL Go library used by the photo stack (stacktrace).
+
 <!-- Q-HEL Go library. -->
 
 # Stacktrace [![Circle CI](https://img.shields.io/circleci/project/palantir/stacktrace/master.svg?label=circleci)](https://circleci.com/gh/palantir/stacktrace) [![Travis CI](https://img.shields.io/travis/palantir/stacktrace/master.svg?label=travis)](https://travis-ci.org/palantir/stacktrace)
