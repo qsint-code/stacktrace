@@ -1,4 +1,4 @@
-<!-- Q-HEL vendored fork note: This repository is a vendored copy of the stacktrace source used by Q-HEL, rebranded under github.com/qsint-code/stacktrace for reproducible/offline Q-HEL builds. -->
+<!-- Q-HEL Go library. -->
 
 # Stacktrace [![Circle CI](https://img.shields.io/circleci/project/palantir/stacktrace/master.svg?label=circleci)](https://circleci.com/gh/palantir/stacktrace) [![Travis CI](https://img.shields.io/travis/palantir/stacktrace/master.svg?label=travis)](https://travis-ci.org/palantir/stacktrace)
 
